@@ -1,2 +1,2 @@
 # hello-world
-My first try
+Hello, trying this out to see what I can do with it. 
